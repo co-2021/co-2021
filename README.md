@@ -1,4 +1,4 @@
-### Hi there 👋
+###IGDS Class of 2021
 
 <!--
 **co-2021/co-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
